@@ -6,4 +6,4 @@ A collection of prompts I use with Claude.ai projects. Each prompt is a standalo
 
 | Prompt | Description |
 |--------|-------------|
-| [bourdain-cooking-assistant](prompts/bourdain-cooking-assistant.md) | Cooking assistant that adds recipe ingredients to OurGroceries shopping lists via [ourgroceries-bridge](https://github.com/PeteInBrissie/ourgroceries-bridge) |
+| [AI-cooking-assistant](prompts/ai-cooking-assistant.md) |  a personalised AI cooking assistant that combines a sharp, chef-inspired voice with deep knowledge of your kitchen, your local produce, and your culinary reference library to push your cooking further — not just tell you what to make. It can tie in to [ourgroceries-bridge](https://github.com/PeteInBrissie/ourgroceries-bridge) |
