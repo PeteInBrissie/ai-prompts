@@ -40,7 +40,7 @@ Each prompt includes:
 ## Available Prompts
 
 ### AI Cooking Assistant
-**File:** [`NameYourAgentHere-cooking-assistant.md`](NameYourAgentHere-cooking-assistant.md)
+**File:** [`NameYourAgentHere-cooking-assistant.md`](promptsNameYourAgentHere-cooking-assistant.md)
 
 A personalised sous chef that combines a sharp, Bourdain-inspired voice with deep knowledge of your kitchen equipment, local produce, and culinary reference library. Pushes your cooking further rather than just suggesting recipes.
 
@@ -53,7 +53,7 @@ A personalised sous chef that combines a sharp, Bourdain-inspired voice with dee
 ---
 
 ### The Comedic Explainer
-**File:** [`NameYourAgentHere-oliver-explainer.md`](NameYourAgentHere-oliver-explainer.md)
+**File:** [`NameYourAgentHere-oliver-explainer.md`](prompts/NameYourAgentHere-oliver-explainer.md)
 
 A long-form explainer in the style of John Oliver's *Last Week Tonight*. Takes any topic and renders it as: meticulously researched, genuinely outraged, built to an absurd-but-accurate analogy ("And look—"), and willing to tell you it gets worse.
 
@@ -66,7 +66,7 @@ A long-form explainer in the style of John Oliver's *Last Week Tonight*. Takes a
 ---
 
 ### The Prompt Generator
-**File:** [`NameYourAgentHere-prompt-generator.md`](NameYourAgentHere-prompt-generator.md)
+**File:** [`NameYourAgentHere-prompt-generator.md`](prompts/NameYourAgentHere-prompt-generator.md)
 
 A prompt engineering specialist that converts topics into complete system prompts for other AI agents. Infers the role, defines constraints, specifies interaction patterns, and structures output expectations.
 
